@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/swing-and-score-baseball-42527-42536/baseball_game_frontend"
+}
